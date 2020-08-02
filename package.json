@@ -1,0 +1,28 @@
+{
+  "name": "react-router-tester",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nanyang24/react-router-tester.git"
+  },
+  "author": "Nan Yang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nanyang24/react-router-tester/issues"
+  },
+  "homepage": "https://github.com/nanyang24/react-router-tester#readme",
+  "devDependencies": {
+    "@babel/core": "^7.11.0",
+    "@babel/preset-env": "^7.11.0",
+    "@babel/preset-react": "^7.10.4",
+    "babel": "^6.23.0",
+    "babel-loader": "^8.1.0",
+    "webpack": "^4.44.1",
+    "webpack-cli": "^3.3.12"
+  }
+}
